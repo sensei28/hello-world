@@ -1,2 +1,1 @@
-# hello-world
-deneme
+beni mutlaka okumalısın
